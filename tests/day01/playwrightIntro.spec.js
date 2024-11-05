@@ -19,7 +19,7 @@ test("simple Playwright Automation Test01 @google", async ({page}) => {
 
 });
 
-test("simple Playwright Automation Test02 @youtube", async ({page}) => {
+test("simple Playwright Automation Test02", async ({page}) => {
 
     await page.goto("https://www.youtube.com");
 
