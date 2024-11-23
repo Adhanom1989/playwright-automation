@@ -24,7 +24,6 @@ test("Youtube Search @youtube2", async ({ page }) => {
 
     await firstVideo.click();
 
-    // await page.waitForTimeout(10000);
 
 
   

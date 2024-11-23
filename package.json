@@ -5,8 +5,8 @@
   "scripts": {
     "tests": "npx playwright test",
     "test:sprcific": "npx playwright test --grep playwrightIntro.spec.js",
-    "test:tag" : "npx playwright test --grep  @youtube" ,
-    "report" : "npx playwright show-report" 
+    "test:tag": "npx playwright test --grep ",
+    "report": "npx playwright show-report"
   },
   "keywords": [],
   "author": "",
